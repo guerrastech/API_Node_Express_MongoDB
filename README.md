@@ -13,7 +13,7 @@ Este é um projeto simples que visa aprimorar meu aprendizado na area de criaç�
 
 1. **Clone o repositório:**
     ```bash
-    git clone [https://github.com/seu-usuario/meu-leitor-de-livros.git](https://github.com/guerrastech/API_Node_Express_MongoDB.git)
+    git clone https://github.com/guerrastech/API_Node_Express_MongoDB.git
 
 2. **Instale as Dependências:**
     npm install
