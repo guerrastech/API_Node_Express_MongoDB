@@ -34,7 +34,7 @@ Este é um projeto simples que visa aprimorar meu aprendizado na area de criaç�
 
 
 ## Autor:
-[https://github.com/guerrastech](Gabriel Guerra)
+[Gabriel Guerra](https://github.com/guerrastech)
 
 ## Licença
 
